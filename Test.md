@@ -1,8 +1,8 @@
-#Heading1
+# Heading1
 
 ## Smaller Heading 2
 
-###EvenSmallerHeading3
+### EvenSmallerHeading3
 
 *italics* or _italics_
 
